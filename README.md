@@ -1,13 +1,38 @@
-# Mireutale(priaselay)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:99e1ab,100:f8fcf7&height=120&text=Mireutale(priaselay)'s%20GitHub&animation=fadeIn&fontColor=000000&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Mireutale </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white">
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:mireutale@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:mireutale@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
 
-<div align = "center">
-     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=priaselay&theme=warm)<br/>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko)]
-
-</div>
-
+<div align = "center">
      
 <!--
 **Martinel2/Martinel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
