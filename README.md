@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
     </div>
     <div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Studying Tech </h2> <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Studying Tech </h2> <br>
     <div  align= "center"> 
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
@@ -18,7 +18,7 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           </div>
     </div>
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> using </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> using </h2> <br> 
     <div  align= "center"> 
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
