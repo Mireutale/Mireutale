@@ -1,13 +1,9 @@
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
-<div aling = "center"> 
-### Baekjoon & GitHub stats <br/>
-  ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&section=header&text=capsule%20render&fontSize=90" />
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko)]
-</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko)]
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
      
 <!--
 **Martinel2/Martinel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
