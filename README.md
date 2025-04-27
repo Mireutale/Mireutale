@@ -1,6 +1,6 @@
 
 <div align= "center"> 
-  #### Baekjoon & GitHub stats
+  Baekjoon & GitHub stats
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
