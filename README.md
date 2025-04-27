@@ -1,7 +1,8 @@
 
 <div aling = "center"> 
 ### Baekjoon & GitHub stats <br/>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&section=header&text=capsule%20render&fontSize=90&text=Hell!" />
+  ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&section=header&text=capsule%20render&fontSize=90" />
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
