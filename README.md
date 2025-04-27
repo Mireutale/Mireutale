@@ -1,6 +1,6 @@
 ## 👋 Welcome to My Github!!
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale)](https://github.com/Mireutale/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale)](https://github.com/Mireutale/github-readme-stats&show_icons=true&theme=merko)
 
 #### Baekjoon     
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
