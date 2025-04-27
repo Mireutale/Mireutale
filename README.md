@@ -1,9 +1,9 @@
 #### Baekjoon & GitHub stats
 <div align= "center"> 
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko)]
 </div>
      
