@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Mireutale </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        Student at Pusan ​​National University (2020 ~ now)
+        <li> Student at Pusan ​​National University (2020 ~ now)
     </div> 
     </div>
     <div style="text-align: left;">
@@ -40,7 +40,7 @@
         <img src = "https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko")>
     </div>
 </div>
-    
+
 <!--
 **Martinel2/Martinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
