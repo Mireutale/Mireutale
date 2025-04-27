@@ -31,11 +31,12 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=priaselay&theme=warm)<br/>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko)]
-<div align = "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Boj & GitHub stats </h2> <br> 
+    <div align= "center"> 
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay)](https://solved.ac/priaselay/)<br/>
+    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=priaselay&theme=warm)<br/>
+    [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko)]
+    </div>
      
 <!--
 **Martinel2/Martinel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
