@@ -18,7 +18,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-7df18b?style=flat&logo=Spring&logoColor=green">
-          <img src="https://img.shields.io/badge/Spring Boot-7df1ff?style=flat&logo=SpringBoot&logoColor=green">
+          <img src="https://img.shields.io/badge/Spring Boot-7df18b?style=flat&logo=SpringBoot&logoColor=white">
           </div>
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ using </h2> <br> 
