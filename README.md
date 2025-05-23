@@ -17,6 +17,7 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Spring&logoColor=green">
           </div>
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ using </h2> <br> 
