@@ -39,7 +39,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Boj & GitHub stats </h2> <br> 
     <div align= "center"> 
         <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay")><br>
-        <img src = "http://mazandi.herokuapp.com/api?handle=priaselay&theme=warm")><br>
         <img src = "https://github-readme-stats.vercel.app/api?username=Mireutale&show_icons=true&theme=merko")>
     </div>
 </div>
