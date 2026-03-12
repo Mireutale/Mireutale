@@ -16,9 +16,8 @@ fontColor: 333333
 fontSize: 40
   -> 글자 크기 (픽셀 단위)
 -->
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&fontColor=e8e8e8&height=120&section=header&text=Taejin Kang's%20GitHub&fontSize=40"/>
-</div>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&fontColor=e8e8e8&height=120&section=header&text=Taejin%20Kang%27s%20GitHub&fontSize=40)
 
 <!-- Introduce -->
 ## Introduction
