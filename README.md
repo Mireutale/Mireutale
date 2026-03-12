@@ -73,7 +73,7 @@ fontSize: 40
 - PNU Mini Bootcamp 프로젝트
 - FastAPI와 React를 활용하여 당근마켓 클론코딩 프로젝트 진행
 ### [Pilltip](https://github.com/PillTipKR/Pilltip)
-- 2025.02 ~ 2025.12, 팀 프로젝트
+- 2025.03 ~ 2025.12, 팀 프로젝트
 - 당신만의 개인맞춤 AI 안심복약 솔루션
 ### [지역별 날씨 기반 옷차림 추천 서비스](https://github.com/PillTipKR/Pilltip)
 - 2025.03 ~ 2025.05, 팀 프로젝트
