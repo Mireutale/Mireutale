@@ -17,7 +17,7 @@ fontSize: 40
   -> 글자 크기 (픽셀 단위)
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8e8e8,100:c0c0c0&height=120&text=Taejin Kang's%20GitHub&animation=fadeIn&fontColor=333333&fontSize=40&reversal=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8e8e8,100:c0c0c0&height=120&text=Taejin Kang's%20GitHub&animation=fadeIn&fontColor=333333&fontSize=40"/>
 </div>
 
 <!-- Introduce -->
