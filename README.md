@@ -28,7 +28,6 @@ fontSize: 40
 ### 강태진 (Taejin Kang)
 - 호기심 많은 개발자
 - 고민하고, 문제를 탐구하는 것을 좋아하는 사람
-- 팀 Pilltip, Backend 및 일부 Frontend 개발 담당
 - Email: mireutale@gmail.com
 
 ### Certification
