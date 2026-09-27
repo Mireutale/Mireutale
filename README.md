@@ -31,7 +31,7 @@ fontSize: 40
 - Email: mireutale@gmail.com
 
 ### Certification
-- 정보처리기사 : 2026.06.12 일자 취득
+- 정보처리기사(2026.06.12 ~ )
 
 <!-- Career -->
 ## Career
