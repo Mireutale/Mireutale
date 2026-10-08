@@ -36,8 +36,8 @@ fontSize: 40
 - PCCP Lv.2 (2025.05.31)
 - OPIc IM2 (2026.02.19)
 
-<!-- Career -->
-## Career
+<!-- Experience -->
+## Experience
 ### 주식회사 뉴아이
 - 2025.06 ~ 2025.08
 - 개발 인턴
@@ -47,9 +47,12 @@ fontSize: 40
   - unipass api를 연동하여 수출입 서류 자동화 시스템 개발
 
 ### AI·SW 마에스트로
-- 2026.04 ~ 
+- 2026.04 ~ 현재
 - 서울 센터 17기 연수생
-  - 팀 Fruition 팀장
+- 팀 Fruition 팀장 · 기획 · 아키텍처 · 프론트 · AWS 인프라 · DevOps 담당
+  - AWS EKS 기반 MSA 아키텍처 설계 및 CI/CD·모니터링 구축
+  - Next.js 프론트엔드 개발, 팀 일정·배포 관리
+  - AI Native 개발 환경 구성 (팀 개발 규칙 문서화 · 공용 스킬 작성)
 
 <!-- Award -->
 ## Award
