@@ -32,9 +32,9 @@ fontSize: 40
 
 ### Certification
 - 정보처리기사(2026.06.12 ~ )
-- TOPCIT Level 3, 557점 (2025.05)
-- PCCP Lv.2 (2025.05)
-- OPIc IM2 (2026.02)
+- TOPCIT Level 3, 557점 (2025.05.24)
+- PCCP Lv.2 (2025.05.31)
+- OPIc IM2 (2026.02.19)
 
 <!-- Career -->
 ## Career
@@ -59,13 +59,7 @@ fontSize: 40
 | 25.09.23 | 부산 데이터 위크 2025<br>데이터활용 우수사례 공모전 | 최우수상<br>1위 | Pilltip |      **부산광역시**<br>부산광역시장       |
 | 25.09.28 |     Google.org AI 커리어스쿨<br>창업톤 L:AUNCH      |   장려상, 3위   | Pilltip | **Google.org**<br>KRYPTON X / Root Impact |
 | 25.10.01 | 부산대학교 정보컴퓨터공학부<br>졸업과제 SW/AI 분과  |    금상, 1위    | Pilltip |  **부산대학교**<br>정보의생명공학대학장   |
-
-## Scholarships and Programs
-|   날짜   |                     대회명                      |      참여       |   팀    |               주관 / 수여                |
-| :------: | :---------------------------------------------: | :-------------: | :-----: | :--------------------------------------: |
-| 25.07.17 |               2025 K-ICT in Busan               | 부산대학교 대표 | Pilltip |    **SK 그룹**<br>SK Telecom 주식회사    |
-| 25.10.01 | SW중심대학 마일스톤 장학생<br> SW전문인재S 선정           |     장학생   |    -    | **부산대학교**<br>소프트웨어융합교육원장 |
-| 25.11.02 |                SK AI SUMMIT 2025                | 부산대학교 대표 | Pilltip |    **SK 그룹**<br>SK Telecom 주식회사    |
+| 25.10.01 |    SW중심대학 마일스톤 장학생<br>SW전문인재S 선정    |     장학생      |    -    | **부산대학교**<br>소프트웨어융합교육원장  |
 
 
 <!-- Education -->
@@ -76,26 +70,30 @@ fontSize: 40
 - 보안동아리 KEEPER 14기 (2022.08 ~ 2026.02)
   - 멘토 및 학술부장 (2024.08 ~ 2025.08)
 
+### 교내 성과 및 활동
+|   날짜   |      활동      |      참여       |   팀    |            주관 / 수여             |
+| :------: | :-------------------: | :-------------: | :-----: | :--------------------------------: |
+| 25.07.17 |  2025 K-ICT in Busan  | 부산대학교 대표 | Pilltip | **SK 그룹**<br>SK Telecom 주식회사 |
+| 25.11.02 |   SK AI SUMMIT 2025   | 부산대학교 대표 | Pilltip | **SK 그룹**<br>SK Telecom 주식회사 |
+
 <!-- Project -->
 ## Project
 ### [당근마켓 클론코딩](https://github.com/Mireutale/Project_API)
-- 2024.11 ~ 2025.02, 팀 프로젝트
-- PNU Mini Bootcamp 프로젝트
-- FastAPI와 React를 활용하여 당근마켓 클론코딩 프로젝트 진행
+- 2024.11 ~ 2025.02 · 팀 프로젝트 · 기획 · 설계 · 백엔드
+- PNU Mini Bootcamp. 당근마켓 API를 리버싱해 FastAPI로 백엔드를 구현하고 React 프론트와 연결했습니다.
+### [지역별 날씨 기반 옷차림 추천](https://github.com/Mireutale/cloudComputingProject)
+- 2025.03 ~ 2025.05 · 팀 프로젝트 · 기획 · 설계 · 백엔드
+- 검색한 지역의 실시간 날씨를 OpenWeather에서 받아 GPT가 자연어로 옷차림을 추천하는 웹 서비스. 클라우드컴퓨팅 수업 프로젝트.
 ### [Pilltip](https://github.com/PillTipKR/Pilltip)
-- 2025.03 ~ 2025.12, 팀 프로젝트
-- 당신만의 개인맞춤 AI 안심복약 솔루션
-### [지역별 날씨 기반 옷차림 추천 서비스](https://github.com/Mireutale/cloudComputingProject)
-- 2025.03 ~ 2025.05, 팀 프로젝트
-- 지역별 날씨 데이터를 활용하여 옷차림을 추천하는 서비스 개발
+- 2025.03 ~ 2025.12 · 팀 프로젝트 · 백엔드 · 웹 프론트 · 설계 · 온프레미스 인프라
+- 🏆 졸업과제 금상 · 부산 데이터 위크 최우수상 · Google.org L:AUNCH 3위 · SW중심대학 디지털 경진대회 후원기업상
+- 개인맞춤 AI 안심복약 솔루션. 복약 이력과 건강 상태를 바탕으로 개인 DUR 검사, LLM 복약 가이드, 디지털 문진을 제공합니다.
 ### [분산 동시성 스트레스 테스트](https://github.com/Mireutale/java-Distributed-Concurrency-Stress-Test)
-- 2025.11 ~ 2025.11, 개인 프로젝트
-- 동시 수강신청 시스템의 스트레스 테스트를 위한 Java 기반 프로젝트
-    - k6를 활용한 스트레스 테스트 및 로드 밸런스의 효과 분석
+- 2025.11 · 개인 프로젝트 · 설계 · 구현 · 측정
+- 수강신청은 왜 터지는가. 로드밸런서·서버 3대·우선순위 큐를 직접 만들고 k6로 부하를 걸어 확인한 실험.
 ### [Fruition](https://github.com/FruitionKR)
-- 2026.04 ~ , 팀 프로젝트
-- AI·SW 마에스트로 17기 팀 Fruition (3인), 팀장
-- 개인 문서를 LLM Wiki로 구조화하고 근거를 인용해 답하는 AI 지식관리 워크스페이스
+- 2026.04 ~ 현재 · 팀 프로젝트 · 팀장 · 기획 · 아키텍처 · 프론트 · AWS 인프라 · DevOps
+- AI 문서 정리 지식관리 워크스페이스. 개인 문서를 LLM Wiki로 구조화하고 근거를 인용해 답하는 SaaS. AI·SW 마에스트로 17기 팀 Fruition(3인).
 
 ## Open Source
 ### [rhwp](https://github.com/edwardkim/rhwp)
