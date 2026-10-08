@@ -32,6 +32,9 @@ fontSize: 40
 
 ### Certification
 - 정보처리기사(2026.06.12 ~ )
+- TOPCIT Level 3, 557점 (2025.05)
+- PCCP Lv.2 (2025.05)
+- OPIc IM2 (2026.02)
 
 <!-- Career -->
 ## Career
@@ -46,13 +49,13 @@ fontSize: 40
 ### AI·SW 마에스트로
 - 2026.04 ~ 
 - 서울 센터 17기 연수생
-  - 팀 Fruition
+  - 팀 Fruition 팀장
 
 <!-- Award -->
 ## Award
 |   날짜    |                       대회명                          |       상        |   팀     |                주관 / 수여                  |
 | :------: | :-------------------------------------------------: | :-------------: | :-----: | :---------------------------------------: |
-| 25.08.12 |          SW중심대학 디지털 경진대회 SW부문          |     기업상      | Pilltip |    **SW중심대학협의회**<br>㈜딥노이드     |
+| 25.08.12 |          SW중심대학 디지털 경진대회 SW부문          |   후원기업상    | Pilltip |    **SW중심대학협의회**<br>㈜딥노이드     |
 | 25.09.23 | 부산 데이터 위크 2025<br>데이터활용 우수사례 공모전 | 최우수상<br>1위 | Pilltip |      **부산광역시**<br>부산광역시장       |
 | 25.09.28 |     Google.org AI 커리어스쿨<br>창업톤 L:AUNCH      |   장려상, 3위   | Pilltip | **Google.org**<br>KRYPTON X / Root Impact |
 | 25.10.01 | 부산대학교 정보컴퓨터공학부<br>졸업과제 SW/AI 분과  |    금상, 1위    | Pilltip |  **부산대학교**<br>정보의생명공학대학장   |
@@ -70,25 +73,35 @@ fontSize: 40
 ### 부산대학교 (Pusan National University)
 - 2020.02 ~ 2026.02
 - 정보컴퓨터공학 학사 졸업
-- 보안동아리 KEEPER (2022.08 ~ 2025.08)
+- 보안동아리 KEEPER 14기 (2022.08 ~ 2026.02)
   - 멘토 및 학술부장 (2024.08 ~ 2025.08)
 
 <!-- Project -->
 ## Project
-### [당근마켓 클론코딩](https://github.com/Mireutale/Project_API-front)
+### [당근마켓 클론코딩](https://github.com/Mireutale/Project_API)
 - 2024.11 ~ 2025.02, 팀 프로젝트
 - PNU Mini Bootcamp 프로젝트
 - FastAPI와 React를 활용하여 당근마켓 클론코딩 프로젝트 진행
 ### [Pilltip](https://github.com/PillTipKR/Pilltip)
 - 2025.03 ~ 2025.12, 팀 프로젝트
 - 당신만의 개인맞춤 AI 안심복약 솔루션
-### [지역별 날씨 기반 옷차림 추천 서비스](https://github.com/PillTipKR/Pilltip)
+### [지역별 날씨 기반 옷차림 추천 서비스](https://github.com/Mireutale/cloudComputingProject)
 - 2025.03 ~ 2025.05, 팀 프로젝트
 - 지역별 날씨 데이터를 활용하여 옷차림을 추천하는 서비스 개발
-### [동시 수강신청 스트레스 시스템](https://github.com/Mireutale/java-Distributed-Concurrency-Stress-Test)
+### [분산 동시성 스트레스 테스트](https://github.com/Mireutale/java-Distributed-Concurrency-Stress-Test)
 - 2025.11 ~ 2025.11, 개인 프로젝트
 - 동시 수강신청 시스템의 스트레스 테스트를 위한 Java 기반 프로젝트
     - k6를 활용한 스트레스 테스트 및 로드 밸런스의 효과 분석
+### [Fruition](https://github.com/FruitionKR)
+- 2026.04 ~ , 팀 프로젝트
+- AI·SW 마에스트로 17기 팀 Fruition (3인), 팀장
+- 개인 문서를 LLM Wiki로 구조화하고 근거를 인용해 답하는 AI 지식관리 워크스페이스
+
+## Open Source
+### [rhwp](https://github.com/edwardkim/rhwp)
+- 2026.06
+- Rust 기반 HWP 뷰어·에디터
+- HWPX → HWP 저장 시 데이터 손실 수정 PR 4건 반영
   
 ## Studying Skills
 ### Languages
@@ -129,6 +142,8 @@ fontSize: 40
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
@@ -137,6 +152,7 @@ fontSize: 40
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 </div>
