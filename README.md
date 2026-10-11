@@ -38,6 +38,15 @@ fontSize: 40
 
 <!-- Experience -->
 ## Experience
+### PNU Mini Bootcamp 백엔드/클라우드 과정
+- 2025.02.03 ~ 2025.02.14 (70시간)
+- 부산대학교 정보컴퓨터공학부 주최 · 멋쟁이사자처럼 운영
+- FastAPI 백엔드 개발부터 클라우드 배포까지 다루는 집중 교육
+  - HTTP·REST API 설계, FastAPI(Router·의존성 주입), SQLModel, Pydantic 검증
+  - JWT·bcrypt 인증, Redis 캐싱, WebSocket·비동기 처리
+  - AWS Lightsail에 Gunicorn·systemd·nginx로 배포
+- 팀 프로젝트로 [당근마켓 API 리버싱](https://github.com/Mireutale/Project_API) 백엔드 개발
+
 ### 주식회사 뉴아이
 - 2025.06 ~ 2025.08
 - 개발 인턴
@@ -82,7 +91,7 @@ fontSize: 40
 <!-- Project -->
 ## Project
 ### [당근마켓 클론코딩](https://github.com/Mireutale/Project_API)
-- 2024.11 ~ 2025.02
+- 2025.02
 - 팀 프로젝트 · 기획 · 설계 · 백엔드
 - PNU Mini Bootcamp. 당근마켓 API를 리버싱해 FastAPI로 백엔드를 구현하고 React 프론트와 연결했습니다.
 ### [지역별 날씨 기반 옷차림 추천](https://github.com/Mireutale/cloudComputingProject)
