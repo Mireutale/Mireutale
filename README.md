@@ -39,7 +39,7 @@ fontSize: 40
 <!-- Experience -->
 ## Experience
 ### PNU Mini Bootcamp 백엔드/클라우드 과정
-- 2025.02.03 ~ 2025.02.14 (70시간)
+- 2025.02.03 ~ 2025.02.14
 - 부산대학교 정보컴퓨터공학부 주최 · 멋쟁이사자처럼 운영
 - FastAPI 백엔드 개발부터 클라우드 배포까지 다루는 집중 교육
   - HTTP·REST API 설계, FastAPI(Router·의존성 주입), SQLModel, Pydantic 검증
