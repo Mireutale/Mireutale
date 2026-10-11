@@ -45,7 +45,7 @@ fontSize: 40
   - HTTP·REST API 설계, FastAPI(Router·의존성 주입), SQLModel, Pydantic 검증
   - JWT·bcrypt 인증, Redis 캐싱, WebSocket·비동기 처리
   - AWS Lightsail에 Gunicorn·systemd·nginx로 배포
-- 수업과 병행해 2/6부터 팀 프로젝트로 [당근마켓 API 리버싱](https://github.com/Mireutale/Project_API) 백엔드 개발, 2/13 마무리 후 2/14 발표
+- 팀 프로젝트로 [당근마켓 API 리버싱](https://github.com/Mireutale/Project_API) 백엔드 개발, 설계 담당
 
 ### 주식회사 뉴아이
 - 2025.06 ~ 2025.08
