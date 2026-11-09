@@ -32,7 +32,7 @@ fontSize: 40
 
 ### Certification
 - 정보처리기사 (2026.06.12)
-- TOPCIT Level 3, 557점 (2025.05.24)
+- TOPCIT Level 3, 640점 (2026.10.10)
 - PCCP Lv.2 (2025.05.31)
 - OPIc IM2 (2026.02.19)
 
