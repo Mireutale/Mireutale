@@ -31,7 +31,7 @@ fontSize: 40
 <!-- Open Source -->
 ## 🤝 Open Source
 ### [rhwp](https://github.com/edwardkim/rhwp) · Rust 기반 HWP 뷰어·에디터
-- 2026.06 · HWPX → HWP 저장 시 데이터 손실 수정 **PR 4건 반영**
+- HWPX → HWP 저장 시 데이터 손실 수정 **PR 4건 반영**
   - 표 테두리 대각선 방향 정보 유지 ([#1311](https://github.com/edwardkim/rhwp/pull/1311))
   - 문단 번호 겹침 방지 ([#1222](https://github.com/edwardkim/rhwp/pull/1222))
   - 그림의 그림자·효과 정보 보존 ([#1349](https://github.com/edwardkim/rhwp/pull/1349))
