@@ -42,21 +42,26 @@ fontSize: 40
 <!-- Project -->
 ## Projects
 ### [Fruition](https://github.com/FruitionKR) · AI Agent 지식 워크스페이스
-- 2026.04 ~ 현재 · AI·SW 마에스트로 17기 · 3인 팀 팀장 · 기획 · 아키텍처 · 프론트 · AWS 인프라 · DevOps · 일정·배포 관리
+- 2026.04 ~ 현재 · AI·SW 마에스트로 17기 · 3인 팀 팀장
 - 🌐 [fruition.wiki](https://fruition.wiki/)
 - 문서를 올리면 AI가 핵심 개념과 관계를 뽑아 원문 출처가 연결된 LLM Wiki로 쌓아 주는 AI Agent 지식 워크스페이스 (웹 SaaS)
-- 📝 소프트웨어 저작권 등록 · 특허 출원 (2026.11) · 베타 테스트 진행
+- 📝 소프트웨어 저작권 등록 · 임시 특허 출원 (2026.11) · 베타 테스트 진행
 - AWS EKS 기반 MSA 아키텍처 설계 (Spring Boot · Kafka · Redis · PostgreSQL · S3)
 - Terraform IaC, GitHub Actions CI/CD·모니터링 구축
 - Next.js 프론트엔드·UI/UX 구현
-- 문제 정의·기획, 1주 단위 스프린트·회고, FE·BE·AI 간 연동 조율, 실사용자 유치와 피드백 반영
+- 문제 정의·기획, 일정·배포 관리, 1주 단위 스프린트·회고, FE·BE·AI 간 연동 조율, 실사용자 유치와 피드백 반영
 - AI Native 개발 환경 구성: 팀 공통 규칙과 프로젝트 맥락을 문서화하고 반복 작업을 스킬로 만들어, 모든 팀원의 AI가 같은 기준으로 작업하도록 구성
 - 현업 멘토링 피드백을 기능 우선순위와 설계에 반영
 
 ### [Pilltip](https://github.com/PillTipKR/Pilltip) · 개인맞춤 AI 안심복약 솔루션
 - 2025.03 ~ 2025.12 · 4인 팀 · 백엔드 · 웹 프론트 · 온프레미스 인프라 · AI 모델
 - 🎬 [서비스 시연 영상](https://youtu.be/IpjfK8htpEg)
-- 🏆 졸업과제 금상 · 부산 데이터 위크 최우수상 · Google.org L:AUNCH 3위 · SW중심대학 디지털 경진대회 후원기업상 · SK AI SUMMIT 2025 우수사례 전시
+- 🏆 수상 및 전시
+  - 졸업과제 금상
+  - 부산 데이터 위크 최우수상
+  - Google.org L:AUNCH 3위
+  - SW중심대학 디지털 경진대회 후원기업상
+  - SK AI SUMMIT 2025 우수사례 전시
 - 복약 이력과 건강 상태를 바탕으로 개인맞춤 DUR 검사, AI 복약 가이드·알림, 디지털 문진, 약물 정보 조회를 제공하는 Android 앱
 - Spring Boot 서버 개발 (Java 17 · Spring Boot 3.4 · MySQL · Elasticsearch · Redis)
 - 온프레미스 서버 구축·운영: 연구실 지원 서버를 학교 내부망 밖에서 호출할 수 있도록 NGINX·포트포워딩 구성, ZeroSSL 인증서로 HTTPS 적용, 도메인 연결
@@ -64,20 +69,27 @@ fontSize: 40
   - AI-Hub 경구약제 이미지 데이터 사용, 서버 용량 한계로 데이터를 나눠 받아 이전 가중치에서 이어 학습하는 점진적 학습 수행
   - 이전 학습 이미지 10%를 랜덤하게 섞어 학습하고, 정답률 90% 이상일 때만 다음 단계로 진행 (미달 시 에포크·가중치 조정 후 재학습)
   - 한 장의 사진에서 여러 알약의 바운딩 박스를 모두 찾도록 학습
-- [웹 문진표](https://github.com/PillTipKR/Pilltip_vercel) 개발 (Next.js · TypeScript): 앱에 입력된 사용자 정보를 병원에 빠르게 제공
+- 웹 문진표 개발 (Next.js · TypeScript): 앱에 입력된 사용자 정보를 병원에 빠르게 제공
 
 ### [분산 동시성 스트레스 테스트](https://github.com/Mireutale/java-Distributed-Concurrency-Stress-Test)
-- 2025.11 · 개인 프로젝트 · 설계 · 구현 · 측정
+- 2025.11 · 개인 프로젝트 · 설계 · 구현 · 측정 · 우아한테크코스 8기 프리코스 오픈미션
 - 수강신청은 왜 터지는가. 로드밸런서·서버 3대·우선순위 큐를 직접 만들고 k6로 부하를 걸어 확인한 실험
-<!-- TODO: k6 측정 결과 한 줄 추가 (예: 처리량 N → M req/s, p95 지연 X ms → Y ms) -->
+- 라운드로빈 로드밸런서(WebFlux) → 서버 3대 → 공유 PostgreSQL 구조, 우선순위 큐와 최대 동시 처리 수로 접근 제어
+- 부하를 10배씩 늘리며 한계 지점 측정 후, 과부하 여부에 따라 동시 처리 수를 늘리고 줄이는 적응형 제어 추가
+  - 초당 2,000건 수강신청: 실패율 **20.8% → 0%**, p95 응답 **11.7s → 462ms**
+- Java 21 · Spring Boot 3.2 · JPA · PostgreSQL · Docker · k6
 
 ### [당근마켓 API 리버싱](https://github.com/Mireutale/Project_API)
-- 2025.02 · 팀 프로젝트 · 기획 · 설계 · 백엔드 · PNU Mini Bootcamp
-- 당근마켓 API를 리버싱해 FastAPI로 백엔드를 구현하고 React 프론트와 연결
+- 2025.02 · 4인 팀 · 기획 · 설계 · 백엔드 · PNU Mini Bootcamp
+- 당근마켓 API를 리버싱해 FastAPI로 백엔드를 구현하고 [React 프론트](https://github.com/ddoed/Project_API-front)와 연결
+- 회원가입·로그인(JWT·bcrypt), 상품 등록·수정, 댓글, 좋아요·구매 내역, WebSocket 실시간 채팅 API 구현
+- FastAPI · SQLModel · Pydantic · WebSocket
 
 ### [지역별 날씨 기반 옷차림 추천](https://github.com/Mireutale/cloudComputingProject)
-- 2025.03 ~ 2025.05 · 팀 프로젝트 · 기획 · 설계 · 백엔드 · 클라우드컴퓨팅 수업
-- 검색한 지역의 실시간 날씨를 OpenWeather에서 받아 GPT가 자연어로 옷차림을 추천하는 웹 서비스
+- 2025.03 ~ 2025.05 · 4인 팀 · 기획 · 설계 · 백엔드 · 클라우드컴퓨팅 수업
+- 검색한 지역의 실시간 날씨를 OpenWeather에서 받아 GPT가 자연어로 옷차림을 추천하는 웹 서비스, 로그인 없이 바로 사용
+- OpenWeather Geocoding으로 도시명을 좌표로 바꿔 날씨를 조회하고, 날씨 정보를 프롬프트로 구성해 GPT 추천 생성하는 백엔드 담당
+- Flask · OpenAI API · OpenWeather API · Docker · AWS EC2
 
 <!-- Award -->
 ## Awards
@@ -120,8 +132,14 @@ fontSize: 40
 - OPIc IM2 (2026.02.19)
 
 ## Training
-- **AWS Training & Certification**: Architecting on AWS · Agentic AI Foundations · Building Agentic AI with Amazon Bedrock AgentCore
-- **Inflearn**: [쉽게 설명하는 AWS 기초 강의](https://www.inflearn.com/certificate/1805614-333984-15365691) · [AWS 배포 완벽가이드](https://www.inflearn.com/certificate/1805614-331548-15365695) · [AWS 클라우드 서비스 인프라 구축 이해와 해킹, 보안](https://www.inflearn.com/certificate/1805614-326695-15365696)
+- **AWS Training & Certification**
+  - [Architecting on AWS](img/aws-architecting-on-aws.png)
+  - [Agentic AI Foundations](img/aws-agentic-ai-foundations.png)
+  - [Building Agentic AI with Amazon Bedrock AgentCore](img/aws-bedrock-agentcore.png)
+- **Inflearn**
+  - [쉽게 설명하는 AWS 기초 강의](https://www.inflearn.com/certificate/1805614-333984-15365691)
+  - [AWS 배포 완벽가이드](https://www.inflearn.com/certificate/1805614-331548-15365695)
+  - [AWS 클라우드 서비스 인프라 구축 이해와 해킹, 보안](https://www.inflearn.com/certificate/1805614-326695-15365696)
 
 ## Tech Stack
 ### Languages
