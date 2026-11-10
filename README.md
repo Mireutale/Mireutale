@@ -84,6 +84,7 @@ fontSize: 40
 - 2025.03 ~ 2025.05 · 클라우드컴퓨팅 수업 · 4인 팀
 - 검색한 지역의 실시간 날씨를 OpenWeather에서 받아 GPT가 자연어로 옷차림을 추천하는 웹 서비스, 로그인 없이 바로 사용
 - OpenWeather Geocoding으로 도시명을 좌표로 바꿔 날씨를 조회하고, 날씨 정보를 프롬프트로 구성해 GPT 추천 생성하는 백엔드 담당
+  - 클라우드 컴퓨팅 학습을 위해 구현한 프론트·백엔드를 Docker로 컨테이너화 하여 개인 AWS EC2에 배포 경험
 - Flask · OpenAI API · OpenWeather API · Docker · AWS EC2
 
 <!-- Award -->
