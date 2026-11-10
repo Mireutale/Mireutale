@@ -22,14 +22,14 @@ fontSize: 40
 </picture>
 
 <!-- Introduce -->
-## Introduction
+## 🧑‍💻 Introduction
 ### 강태진 (Taejin Kang)
 - 호기심 많은 개발자
 - 고민하고, 문제를 탐구하는 것을 좋아하는 사람
 - Email: mireutale@gmail.com
 
 <!-- Open Source -->
-## Open Source
+## 🤝 Open Source
 ### [rhwp](https://github.com/edwardkim/rhwp) · Rust 기반 HWP 뷰어·에디터
 - 2026.06 · HWPX → HWP 저장 시 데이터 손실 수정 **PR 4건 반영**
   - 표 테두리 대각선 방향 정보 유지 ([#1311](https://github.com/edwardkim/rhwp/pull/1311))
@@ -40,7 +40,7 @@ fontSize: 40
 - 모든 수정에 회귀 테스트 추가
 
 <!-- Project -->
-## Projects
+## 🏗️ Projects
 ### [Fruition](https://github.com/FruitionKR) · AI Agent 지식 워크스페이스
 - 2026.04 ~ 현재 · AI·SW 마에스트로 17기 · 3인 팀 팀장
 - 🌐 [fruition.wiki](https://fruition.wiki/)
@@ -92,7 +92,7 @@ fontSize: 40
 - Flask · OpenAI API · OpenWeather API · Docker · AWS EC2
 
 <!-- Award -->
-## Awards
+## 🏆 Awards
 > 상 이름을 누르면 상장을 볼 수 있습니다.
 
 |    날짜    |                       대회명                        |       상        |   팀    |                주관 / 수여                |
@@ -104,7 +104,7 @@ fontSize: 40
 | 2025.08.12 |          SW중심대학 디지털 경진대회 SW부문          | [후원기업상](img/awards/sw-digital-contest-2025.png) | Pilltip |    **SW중심대학협의회**<br>㈜딥노이드     |
 
 <!-- Experience -->
-## Experience
+## 💼 Experience
 ### AI·SW 마에스트로
 - 2026.04 ~ 현재 · 서울 센터 17기 연수생 · 3인 팀 팀장
 - 현업 전문가 정규·자유 멘토링 참여
@@ -131,19 +131,19 @@ fontSize: 40
 - 배포: AWS Lightsail(Ubuntu)에 Gunicorn·systemd·nginx로 서비스 배포
 
 <!-- Education -->
-## Education
+## 🎓 Education & Certifications
 ### 부산대학교 정보컴퓨터공학 학사
 - 2020.02 ~ 2026.02
 - 보안동아리 KEEPER 14기 (2022.08 ~ 2026.02) · 멘토 및 학술부장 (2024.08 ~ 2025.08)
 - 부산대학교 대표 참가: 2025 K-ICT in Busan (2025.07.17), SK AI SUMMIT 2025 (2025.11.03 ~ 2025.11.04)
 
-## Certifications
+### Certifications
 - 정보처리기사 (2026.06.12)
 - TOPCIT Level 3, 640점 (2026.10.10)
 - PCCP Lv.2 (2025.05.31)
 - OPIc IM2 (2026.02.19)
 
-## Training
+### Training
 - **AWS Training & Certification** (AI·SW 마에스트로 제공 · Cloud Architecture 트랙)
   - [Architecting on AWS](img/aws-architecting-on-aws.png)
   - [Agentic AI Foundations](img/aws-agentic-ai-foundations.png)
@@ -153,7 +153,7 @@ fontSize: 40
   - [AWS 배포 완벽가이드](https://www.inflearn.com/certificate/1805614-331548-15365695)
   - [AWS 클라우드 서비스 인프라 구축 이해와 해킹, 보안](https://www.inflearn.com/certificate/1805614-326695-15365696)
 
-## Tech Stack
+## 🛠️ Tech Stack
 ### Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -164,23 +164,15 @@ fontSize: 40
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 </div>
 
-### Frontend
+### Frameworks & Libraries
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</div>
-
-### Backend
-<div align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-</div>
-
-### AI / ML
-<div align="left">
   <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge">
 </div>
 
@@ -213,7 +205,7 @@ fontSize: 40
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 </div>
 
-## Problem Solving
+## 🧩 Problem Solving
 <div align="center">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=priaselay">
 </div>
