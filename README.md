@@ -106,8 +106,15 @@ fontSize: 40
 <!-- Experience -->
 ## Experience
 ### AI·SW 마에스트로
-- 2026.04 ~ 현재 · 서울 센터 17기 연수생
-- 팀 Fruition 팀장 · 기획 · 아키텍처 · 프론트 · AWS 인프라 · DevOps 담당 ([프로젝트 상세](#fruition--ai-agent-지식-워크스페이스))
+- 2026.04 ~ 현재 · 서울 센터 17기 연수생 · 3인 팀 팀장
+- 현업 전문가 정규·자유 멘토링 참여
+  - 서비스 기획과 MVP 범위 설정, 소프트웨어 개발 방법론
+  - 백엔드 아키텍처 설계와 시스템 안정화, Agentic AI 활용 방식
+  - 받은 피드백을 기능 우선순위와 설계·개발 과정에 반영
+- 생성형 AI와 코딩 에이전트를 활용한 AI Native 개발 방식 학습·적용
+  - 요구사항 구체화, 구현 계획, 코드 작성, 테스트, 문서화 전 과정에 AI 활용
+  - AI가 만든 결과물은 코드 리뷰와 테스트로 검증한 뒤 반영
+- AWS 공식 교육 수료: Architecting on AWS · Agentic AI Foundations · Building Agentic AI with Amazon Bedrock AgentCore
 
 ### 주식회사 뉴아이 · 개발 인턴
 - 2025.06 ~ 2025.08
@@ -116,9 +123,12 @@ fontSize: 40
 
 ### PNU Mini Bootcamp 백엔드/클라우드 과정
 - 2025.02.03 ~ 2025.02.14 · 부산대학교 정보컴퓨터공학부 주최 · 멋쟁이사자처럼 운영
-- FastAPI(Router·의존성 주입), SQLModel, Pydantic, JWT·bcrypt 인증, Redis 캐싱, WebSocket·비동기 처리
-- AWS Lightsail에 Gunicorn·systemd·nginx로 배포
-- 팀 프로젝트: [당근마켓 API 리버싱](https://github.com/Mireutale/Project_API) 백엔드 개발, 설계 담당
+- API 기초: HTTP 요청·응답 구조와 간단한 HTTP 서버 직접 구현, RESTful API 설계 원칙
+- FastAPI: Path·Query·Body 파라미터와 응답 모델, Router로 경로별 파일 분리, Dependency(의존성 주입)
+- 데이터: SQLModel로 DB 연동과 서비스 계층 분리, Pydantic으로 데이터 검증, 환경변수 관리
+- 성능·실시간: Redis 캐싱 전략(TTL, API 응답 캐싱), async/await 비동기 처리, WebSocket 채팅, Background Tasks
+- 인증: JWT 발급·검증, 비밀번호 해싱, 회원가입·로그인 구현
+- 배포: AWS Lightsail(Ubuntu)에 Gunicorn·systemd·nginx로 서비스 배포
 
 <!-- Education -->
 ## Education
@@ -134,7 +144,7 @@ fontSize: 40
 - OPIc IM2 (2026.02.19)
 
 ## Training
-- **AWS Training & Certification**
+- **AWS Training & Certification** (AI·SW 마에스트로 제공)
   - [Architecting on AWS](img/aws-architecting-on-aws.png)
   - [Agentic AI Foundations](img/aws-agentic-ai-foundations.png)
   - [Building Agentic AI with Amazon Bedrock AgentCore](img/aws-bedrock-agentcore.png)
