@@ -40,7 +40,7 @@ fontSize: 40
 - 모든 수정에 회귀 테스트 추가
 
 <!-- Project -->
-## 🏗️ Projects
+## 🗂️ Projects
 ### [Fruition](https://github.com/FruitionKR) · AI Agent 지식 워크스페이스
 - 2026.04 ~ 현재 · AI·SW 마에스트로 17기 · 3인 팀 팀장
 - 🌐 [fruition.wiki](https://fruition.wiki/)
@@ -56,12 +56,6 @@ fontSize: 40
 ### [Pilltip](https://github.com/PillTipKR/Pilltip) · 개인맞춤 AI 안심복약 솔루션
 - 2025.03 ~ 2025.12 · 졸업과제 · 4인 팀
 - 🎬 [서비스 시연 영상](https://youtu.be/IpjfK8htpEg)
-- 🏆 수상 및 전시
-  - 졸업과제 금상
-  - 부산 데이터 위크 최우수상
-  - Google.org L:AUNCH 장려상
-  - SW중심대학 디지털 경진대회 후원기업상
-  - SK AI SUMMIT 2025 우수사례 전시
 - 복약 이력과 건강 상태를 바탕으로 개인맞춤 DUR 검사, AI 복약 가이드·알림, 디지털 문진, 약물 정보 조회를 제공하는 Android 앱
 - Spring Boot 서버 개발 (Java 17 · Spring Boot 3.4 · MySQL · Elasticsearch · Redis)
 - 온프레미스 서버 구축·운영: 연구실 지원 서버를 학교 내부망 밖에서 호출할 수 있도록 NGINX·포트포워딩 구성, ZeroSSL 인증서로 HTTPS 적용, 도메인 연결
@@ -131,8 +125,9 @@ fontSize: 40
 - 배포: AWS Lightsail(Ubuntu)에 Gunicorn·systemd·nginx로 서비스 배포
 
 <!-- Education -->
-## 🎓 Education & Certifications
-### 부산대학교 정보컴퓨터공학 학사
+## 🎓 Learning
+### Education
+**부산대학교 정보컴퓨터공학 학사**
 - 2020.02 ~ 2026.02
 - 보안동아리 KEEPER 14기 (2022.08 ~ 2026.02) · 멘토 및 학술부장 (2024.08 ~ 2025.08)
 - 부산대학교 대표 참가: 2025 K-ICT in Busan (2025.07.17), SK AI SUMMIT 2025 (2025.11.03 ~ 2025.11.04)
