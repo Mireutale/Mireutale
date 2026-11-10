@@ -114,7 +114,7 @@ fontSize: 40
 - 생성형 AI와 코딩 에이전트를 활용한 AI Native 개발 방식 학습·적용
   - 요구사항 구체화, 구현 계획, 코드 작성, 테스트, 문서화 전 과정에 AI 활용
   - AI가 만든 결과물은 코드 리뷰와 테스트로 검증한 뒤 반영
-- AWS 공식 교육 수료: Architecting on AWS · Agentic AI Foundations · Building Agentic AI with Amazon Bedrock AgentCore
+- AWS 공식 교육 Cloud Architecture 트랙 수료: Architecting on AWS · Agentic AI Foundations · Building Agentic AI with Amazon Bedrock AgentCore
 
 ### 주식회사 뉴아이 · 개발 인턴
 - 2025.06 ~ 2025.08
@@ -144,7 +144,7 @@ fontSize: 40
 - OPIc IM2 (2026.02.19)
 
 ## Training
-- **AWS Training & Certification** (AI·SW 마에스트로 제공)
+- **AWS Training & Certification** (AI·SW 마에스트로 제공 · Cloud Architecture 트랙)
   - [Architecting on AWS](img/aws-architecting-on-aws.png)
   - [Agentic AI Foundations](img/aws-agentic-ai-foundations.png)
   - [Building Agentic AI with Amazon Bedrock AgentCore](img/aws-bedrock-agentcore.png)
