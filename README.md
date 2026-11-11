@@ -50,6 +50,7 @@ fontSize: 40
 - AWS EKS 기반 MSA 아키텍처 설계 (Spring Boot · Kafka · Redis · PostgreSQL · S3)
 - Terraform IaC, GitHub Actions CI/CD·모니터링 구축
 - Next.js 프론트엔드·UI/UX 구현
+- Notion 가져오기 구현: 내보내기 zip을 폴더 구조·본문·이미지·표·PDF째 옮기고 Wiki 편입까지 연결
 - 문제 정의·기획, 일정·배포 관리, 1주 단위 스프린트·회고, FE·BE·AI 간 연동 조율, 실사용자 유치와 피드백 반영
 - AI Native 개발 환경 구성: 팀 공통 규칙과 프로젝트 맥락을 문서화하고 반복 작업을 스킬로 만들어, 모든 팀원의 AI가 같은 기준으로 작업하도록 구성
 - 현업 멘토링 피드백을 기능 우선순위와 설계에 반영
