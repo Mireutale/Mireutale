@@ -46,7 +46,7 @@ fontSize: 40
 - 2026.04 ~ 현재 · AI·SW 마에스트로 17기 · 3인 팀 팀장
 - 🌐 [fruition.wiki](https://fruition.wiki/)
 - 문서를 올리면 AI가 핵심 개념과 관계를 뽑아 원문 출처가 연결된 LLM Wiki로 쌓아 주는 웹 SaaS
-- 📝 소프트웨어 저작권 등록 · 임시 특허 출원 (2026.11) · 베타 테스트 진행
+- 📝 소프트웨어 저작권 등록 (2026.10) · 임시 특허 출원 (2026.11) · 베타 테스트 진행
 - AWS EKS 기반 MSA 아키텍처 설계 (Spring Boot · Kafka · Redis · PostgreSQL · S3)
 - Terraform IaC, GitHub Actions CI/CD·모니터링 구축
 - Next.js 프론트엔드·UI/UX 구현
